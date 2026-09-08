@@ -1,6 +1,6 @@
 # Welcome to Dillinger
 
-A clean, distraction-free markdown editor. Type on the left, see the rendered output on the right.
+A clean, distraction-free markdown editor. Type on the left, see the rendered output on the right. Easy life with **Dillinger**.
 
 ---
 
